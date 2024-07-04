@@ -1,9 +1,7 @@
 <h1 align="center">Chin up, Cameron's here!</h1>
 <h3 align="center">IT Technician and Creative Writer</h3>
 
-- 🎓 I’m currently working on **graduating from UC Merced (May 2024)**
-
-- 🌱 I’m currently learning **Network Engineering & IT Support**
+- 🌱 I’m currently studying for **CCNA**
 
 - 🖋️ Ask me about [my D&D homebrew](https://www.worldanvil.com/w/ipholas-thebeerex)
 
