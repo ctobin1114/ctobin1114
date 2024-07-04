@@ -9,7 +9,7 @@
 
 - 🏹 Fun Fact, I'm a **barebow archer. BAREBOW!**
 
-- 🖥️ All of my projects are available at [ctobin1114.github.com](ctobin1114.github.com)
+- 🖥️ All of my projects are available at [ctobin1114.github.io](ctobin1114.github.io)
 
 - 📫 How to reach me **ctobin@ucmerced.edu**
 
